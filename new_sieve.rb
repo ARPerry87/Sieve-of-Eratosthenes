@@ -1,6 +1,4 @@
 def sieve_s(n) 
-
-
   primes = [] 
   
   p_p = Array.new(n+1, :possible)
